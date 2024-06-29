@@ -11,16 +11,15 @@ $tweets = [
         'user' => $user
     ],
     [
-        'text' => 'Hello World',
-        'author' => 'PHP',
-        'user' => 'PHP123'
+        'text' => 'Hola buenos dias',
+        'author' => 'Moises',
+        'user' => 'Moises123'
     ],
     [
-        'text' => 'En un lugar de la Mancha',
-        'author' => 'Miguel de Cervantes',
-        'user' => 'MACDS'
-    ],
+        'text' => 'En un lugar de la mancha',
+        'author' => 'Cervantes',
+        'user' => 'MACervantes'
+    ]
 ];
-
 
 require_once "index.html";
